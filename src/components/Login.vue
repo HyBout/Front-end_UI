@@ -13,7 +13,7 @@
                 <label for="reg-log"></label>
                 <div class="card-3d-wrap">
                     <div class="card-3d-wrapper">
-                        card front
+                        <!-- card front -->
                         <div class="card-front">
                             <div class="center-wrap">
                                 <h4 class="heading">Đăng nhập</h4>
@@ -186,7 +186,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 

@@ -6,10 +6,10 @@
                 <h1>Nhóm 14</h1>
                 <div class="box">
                     <ul>
-                        <li>19120268 Ngô Đặng Gia Lâm "Leader"</li>
-                        <li>20120177 Trần Thái San "Back-end Dev"</li>
-                        <li>20120298 Phạm Bảo Huy "Front-end Dev"</li>
-                        <li>20120326 Phan Phong Lưu "Front-end Dev"</li>
+                        <li>19120268 Ngô Đặng Gia Lâm - Leader</li>
+                        <li>20120177 Trần Thái San - Back-end Dev</li>
+                        <li>20120298 Phạm Bảo Huy - Front-end Dev</li>
+                        <li>20120326 Phan Phong Lưu - Front-end Dev</li>
                     </ul>
                 </div>
             </div>
@@ -56,16 +56,13 @@ ul {
     line-height: 50px;
 }
 
-.box {
-}
-
 .main-content.close {
     left: 78px;
     height: 100vh;
     width: calc(100% - 78px);
 }
 
-body.dark .main-content .text {
+.main-content .text {
     color: var(--text-color);
 }
 </style>
